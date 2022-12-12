@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{074e7e31-32bb-4071-a60f-8d976b39708c}">
+		<property name="assetPath">
+			<value>DIEGO/Assets Diego Iron Casket 221109/Sfx_Cinematic_Artillery_Strike.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>14.707833333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ac5f5264-6d3e-4c54-93a0-f535a51777e4}</destination>
+		</relationship>
+	</object>
+</objects>

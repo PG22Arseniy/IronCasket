@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7664b6dc-83d8-4e8c-844c-441e5434ab33}">
+		<property name="assetPath">
+			<value>Mx/Iron Casket Music/Failure/03M023_047 MysteryDoor_Full-01.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>46.898333333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ac5f5264-6d3e-4c54-93a0-f535a51777e4}</destination>
+		</relationship>
+	</object>
+</objects>

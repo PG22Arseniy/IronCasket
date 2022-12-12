@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{7d2e61a7-b8f7-4577-ab9e-8045f067cfe7}">
+		<property name="name">
+			<value>Gauss Rifle</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{9af5295d-d714-4286-a8bb-cad7254ed1b6}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{357eaf50-60ea-4aad-a30f-c252dd2c8dde}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{dd585908-99c1-4be3-9eb8-3ceee3e0626c}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{9af5295d-d714-4286-a8bb-cad7254ed1b6}">
+		<relationship name="effects">
+			<destination>{9cefb640-fa4d-4254-9173-9b2a428f5e92}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{357eaf50-60ea-4aad-a30f-c252dd2c8dde}" />
+	<object class="MixerBusFader" id="{9cefb640-fa4d-4254-9173-9b2a428f5e92}" />
+</objects>

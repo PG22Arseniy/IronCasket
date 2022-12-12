@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{52ab07df-509c-4bf3-bcf6-f057ad973d0a}">
+		<property name="assetPath">
+			<value>Enemy/Death/SFX_ENEMY_DIE_EXPLOSION_SILENCE/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ac5f5264-6d3e-4c54-93a0-f535a51777e4}</destination>
+		</relationship>
+	</object>
+</objects>

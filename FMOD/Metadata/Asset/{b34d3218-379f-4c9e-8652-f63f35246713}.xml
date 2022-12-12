@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{b34d3218-379f-4c9e-8652-f63f35246713}">
+		<property name="assetPath">
+			<value>Player/Player Weapons/PLACEHOLDER_GAUSS_RIFLE/LASER/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ac5f5264-6d3e-4c54-93a0-f535a51777e4}</destination>
+		</relationship>
+	</object>
+</objects>

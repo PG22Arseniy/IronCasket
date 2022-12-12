@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{29b8c315-4f48-4d82-9967-cb40a6ac792b}">
+		<property name="name">
+			<value>Objective Banner</value>
+		</property>
+		<relationship name="folder">
+			<destination>{8ec5bd57-5894-4919-bcf3-1dfb72d969bf}</destination>
+		</relationship>
+	</object>
+</objects>

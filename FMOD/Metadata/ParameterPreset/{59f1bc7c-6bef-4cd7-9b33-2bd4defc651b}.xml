@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{59f1bc7c-6bef-4cd7-9b33-2bd4defc651b}">
+		<property name="name">
+			<value>MG_Mech</value>
+		</property>
+		<relationship name="folder">
+			<destination>{02d265e8-664c-4090-a3ed-2c68c9b6014e}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{9bb1cce0-0975-4310-a5c2-14292a3d682d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{9bb1cce0-0975-4310-a5c2-14292a3d682d}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>100</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
